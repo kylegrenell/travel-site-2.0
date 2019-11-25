@@ -1,0 +1,13 @@
+body {
+    color:green;
+}
+
+$mainBlue: dodgerblue;
+
+.large-hero {
+
+    h2 {
+        color: $mainBlue;
+    }
+
+}
